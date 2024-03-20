@@ -36,7 +36,7 @@
 //                    | ALT |     | SHFT |   | BKSP |     | GUI |
                         bindings = <
    &kp ESC    &kp PLUS &kp N1       &kp N2       &kp N3       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9  &kp N0 &kp DEL
-   &kp TAB  &kp COMMA &kp N4       &kp N5       &kp N6       &bt PLUS   &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp F1 &kp F5
+   &kp TAB  &kp COMMA &kp N4       &kp N5       &kp N6       &mp PLUS   &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp F1 &kp F5
    &kp LCTRL  &kp Z  &kp N7   &kp N8       &kp N9       &kp N0         &kp C_NEXT    &kp C_VOL_UP   &kp C_VOL_DN &kp C_PLAY    &kp F2 &kp F3
                           	        &kp LALT    &trans       &kp SPACE      &kp BSPC  &trans   &kp LGUI
                         >;
